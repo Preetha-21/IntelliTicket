@@ -1,24 +1,38 @@
-# Smart Ticket Booking Platform
+# 🎟️ Smart Ticket Booking Platform with Real-Time Event Management
 
-A full-stack museum ticket booking system built using **React, TypeScript, Node.js, Express.js, and MySQL**.
+A full-stack museum ticket booking system that allows users to book museum tickets online through a responsive web interface. The system also includes an admin dashboard to manage and monitor booking records.
 
-## Features
+## 🚀 Features
 
-- Online ticket booking
+- Online museum ticket booking
 - Admin dashboard
-- MySQL database integration
+- Booking management
 - Responsive user interface
+- MySQL database integration
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React
 - TypeScript
 - Node.js
 - Express.js
 - MySQL
+- HTML5
+- CSS3
 - Vite
 
-## Run the Project
+## 📂 Project Structure
+
+```
+museum-ticketing/
+│── src/
+│── public/
+│── museum-backend/
+│── package.json
+│── README.md
+```
+
+## ▶️ Getting Started
 
 ### Frontend
 
@@ -35,6 +49,17 @@ npm install
 node server.js
 ```
 
-## Author
+## 🗄️ Database
+
+Create a MySQL database and import the required `bookings` table before running the backend.
+
+## 📌 Future Enhancements
+
+- AI Chatbot
+- Payment Gateway Integration
+- QR Code Ticket Generation
+- Multilingual Support
+
+## 👩‍💻 Author
 
 **Preetha K**
