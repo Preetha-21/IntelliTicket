@@ -36,7 +36,7 @@ const BookTicket = () => {
   });
 
   useEffect(() => {
-    setEvent(getEvent());
+    setEvents(getEvents());
   }, []);
 
   const today = new Date().toISOString().split("T")[0];
