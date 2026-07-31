@@ -10,7 +10,12 @@ export interface Booking {
   totalPrice: number;
   paymentStatus: string;
 }
+const STORAGE_KEY = "museum_bookings";
 
+export function getBookings(): Booking[] {
+  const stored = localStorage.getItem(STORAGE_KEY);
+  return stored ? JSON.parse(stored) : [];
+}
 
 
 export function saveBooking(booking: Booking) {
