@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import Navbar from "@/components/Navbar";
-import { Send, Globe } from "lucide-react";
+import { Send, Globe } from "lucide-rect";
 
 interface Message {
   text: string;
