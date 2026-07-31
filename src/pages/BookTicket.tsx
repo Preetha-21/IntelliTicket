@@ -65,7 +65,7 @@ const BookTicket = () => {
       errs.phone = "Phone number must be exactly 10 digits";
     }
     if (!form.visitDate) {
-      errs.visitDate = "Please select your date";
+      errs.visitDate = "Please select a vist date";
     }
     if (!form.eventId) {
       errs.eventId = "Please select an event";
