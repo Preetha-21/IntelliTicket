@@ -67,7 +67,6 @@
   --font-body: 'Source Sans 3', sans-serif;
 }
 
-/* ================= UTILITIES ================= */
 @layer utilities {
   .hover-scale {
     @apply transition-transform duration-200 hover:scale-105;
