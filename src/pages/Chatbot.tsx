@@ -4,7 +4,7 @@ import { Send, Globe } from "lucide-react";
 
 interface Message {
   text: string;
-  sender: "user" | "bot";
+  sender: "use" | "bot";
   type?: "text" | "form" | "success";
 }
 
