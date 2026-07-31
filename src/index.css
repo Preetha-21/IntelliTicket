@@ -4,7 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* ================= THEME ================= */
+
 @layer base {
   /* Dark theme (default) */
   :root {
@@ -30,7 +30,7 @@
     --radius: 0.5rem;
   }
 
-  /* Light theme */
+
   .light {
     --background: 40 30% 97%;
     --foreground: 30 10% 12%;
