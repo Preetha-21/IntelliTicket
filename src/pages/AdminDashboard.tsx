@@ -38,7 +38,7 @@ const AdminDashboard = () => {
       const res = await axios.get("http://localhost:5000/bookings");
       setBookings(res.data);
     } catch {
-      toast.error("Failed to");
+      toast.error("Failed to bookings");
     }
   };
 
