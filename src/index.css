@@ -6,7 +6,7 @@
 
 
 @layer base {
-  /* Dark theme (default) */
+ 
   :root {
     --background: 30 10% 6%;
     --foreground: 40 20% 90%;
@@ -61,7 +61,7 @@
   }
 }
 
-/* ================= FONTS ================= */
+
 :root {
   --font-display: 'Playfair Display', serif;
   --font-body: 'Source Sans 3', sans-serif;
