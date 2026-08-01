@@ -8,7 +8,7 @@ A full-stack museum ticket booking system that allows users to book museum ticke
 - Admin dashboard
 - Booking management
 - Responsive user interface
-- database integration
+- Database integration(MY SQL)
 
 ## 🛠️ Tech Stack
 
