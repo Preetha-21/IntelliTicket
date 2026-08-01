@@ -21,7 +21,6 @@ A full-stack museum ticket booking system that allows users to book museum ticke
 - CSS3
   
 ## 📂 Project Structure
-
 ```
 museum-ticketing/
 │── src/
