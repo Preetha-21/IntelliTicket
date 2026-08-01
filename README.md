@@ -19,7 +19,7 @@ A full-stack museum ticket booking system that allows users to book museum ticke
 - MySQL
 - HTML5
 - CSS3
-- Vite
+
 
 ## 📂 Project Structure
 
